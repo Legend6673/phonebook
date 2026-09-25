@@ -1,158 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AddressBook>
     <Contact>
-        <FirstName></FirstName>
-        <LastName>Bradley</LastName>
+        <FirstName>Bradley</FirstName>
+        <LastName></LastName>
         <Phone>+18172394015</Phone>
     </Contact>
     <Contact>
-        <FirstName></FirstName>
-        <LastName>Byrd Middle School</LastName>
-        <Phone>(972) 708-3400</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Candis</LastName>
-        <Phone>+19724893318</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Chelsey</LastName>
-        <Phone>(785) 969-4060</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Connie</LastName>
-        <Phone>+12146791414</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Dad</LastName>
+        <FirstName>Dad</FirstName>
+        <LastName></LastName>
         <Phone>+12142137222</Phone>
     </Contact>
     <Contact>
-        <FirstName></FirstName>
-        <LastName>Eno</LastName>
-        <Phone>227898</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Gammy</LastName>
-        <Phone>(717) 348-7044</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Katy</FirstName>
-        <LastName>Heien</LastName>
-        <Phone>+18173078376</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Ryan</FirstName>
-        <LastName>Heien</LastName>
-        <Phone>+12146864099</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Robert</FirstName>
-        <LastName>Humphery</LastName>
-        <Phone>+1 254-722-3134</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Tammy</FirstName>
-        <LastName>Humphrey</LastName>
-        <Phone>+1 254-723-0348</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Josh</LastName>
-        <Phone>(214) 542-1681</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Judy Kay</LastName>
-        <Phone>(972) 748-3502</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Hunter</FirstName>
-        <LastName>Kittrell</LastName>
-        <Phone>+19402552871</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Maci</LastName>
-        <Phone>+19727049368</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Maddie</LastName>
-        <Phone>+19728053958</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Miss W</LastName>
-        <Phone>(682) 408-6475</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Mom</LastName>
-        <Phone>+18172392293</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Landon</FirstName>
-        <LastName>Morris</LastName>
-        <Phone>+19728056840</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Zack</FirstName>
-        <LastName>Morris</LastName>
-        <Phone>+19727046076</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Nana</LastName>
-        <Phone>+18173661163</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Nanny</LastName>
-        <Phone>(214) 704-6130</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>PawPaw</LastName>
-        <Phone>+18172394095</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>*Ree*</LastName>
-        <Phone>+14695712277</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Brandon</FirstName>
-        <LastName>Summers</LastName>
-        <Phone>+12148159088</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Trisha</LastName>
-        <Phone>(972) 835-9577</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Tristan</LastName>
-        <Phone>+12544053409</Phone>
-    </Contact>
-    <Contact>
-        <FirstName>Shea</FirstName>
-        <LastName>Wilson</LastName>
-        <Phone>2149128237</Phone>
-    </Contact>
-    <Contact>
-        <FirstName></FirstName>
-        <LastName>Pais</LastName>
+        <FirstName>Pais</FirstName>
+        <LastName></LastName>
         <Phone>25812</Phone>
     </Contact>
     <Contact>
-        <FirstName></FirstName>
-        <LastName>Breckynn</LastName>
+        <FirstName>Breckynn</FirstName>
+        <LastName></LastName>
         <Phone>25811</Phone>
     </Contact>
 </AddressBook>
